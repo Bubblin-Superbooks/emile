@@ -1,0 +1,14 @@
+{
+  "0": "<li><a class = \"page\" href=\"9\">Author’s Preface</a> <span class=\"flex\">9</span> </li>",
+  "1": "<li><a class = \"page\" href=\"17\">Book I</a> <span class=\"flex\">17</span> </li>",
+  "2": "<li><a class = \"page\" href=\"137\">Book Ii</a> <span class=\"flex\">137</span> </li>",
+  "3": "<li><a class = \"page\" href=\"259\">The Fox And The Crow</a> <span class=\"flex\">259</span> </li>",
+  "4": "<li><a class = \"page\" href=\"259\">A Fable</a> <span class=\"flex\">259</span> </li>",
+  "5": "<li><a class = \"page\" href=\"425\">Book Iii</a> <span class=\"flex\">425</span> </li>",
+  "6": "<li><a class = \"page\" href=\"567\">Book Iv</a> <span class=\"flex\">567</span> </li>",
+  "7": "<li><a class = \"page\" href=\"755\">The Creed Of A Savoyard Priest</a> <span class=\"flex\">755</span> </li>",
+  "8": "<li><a class = \"page\" href=\"1062\">Book V</a> <span class=\"flex\">1062</span> </li>",
+  "9": "<li><a class = \"page\" href=\"1064\">Sophy, Or Woman</a> <span class=\"flex\">1064</span> </li>",
+  "10": "<li><a class = \"page\" href=\"1370\">Of Travel</a> <span class=\"flex\">1370</span> </li>",
+  "11": "<li><a class = \"page\" href=\"1470\">The End</a> <span class=\"flex\">1470</span> </li>"
+}
